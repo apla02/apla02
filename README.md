@@ -9,6 +9,7 @@ I'm a Manager Engineer, specialist in Strategy and Foresight, the last year I ha
 - 💬 Ask me about...
 
 
+![Profile views](https://gpvc.arturio.dev/apla02)  <img src="https://img.shields.io/github/followers/apla02?label=Follow" style=" float:left, margin-right:10px" />
 ----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apla02&langs_count=7&theme=algolia&show_icons=true&layout=compact)
@@ -19,3 +20,11 @@ I'm a Manager Engineer, specialist in Strategy and Foresight, the last year I ha
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=apla02&theme=algolia&show_icons=true)
 
 
+### Find me in the web 🌍
+[<img align="left" alt="apla02" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="laurandrealvarez | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="apla02 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="apla02 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="apla02 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/>
