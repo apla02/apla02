@@ -2,9 +2,11 @@
 ## I'm Laura 👋
 I'm a Manager Engineer, specialist in Strategy and Foresight, the last year I have learnt different programming languages, data structures, and algorithms to enhance my professional profile and to make more accurate decisions through data science and machine learning.
 
-- 🌱 I’m currently learning and and improving my data science skill, working with Numpy, Pandas, Matpotlib and ScikitLearn
+- 🌱 Foundations in software full stack including, low-level, high-level, devops and frontend.
+- 🌱 I’m currently learning and and improving my data science skills, working with Numpy, Pandas, Matpotlib and ScikitLearn.
 - 👯 I’m want to learn Keras, Pytorch, MongoDB
-- 💬 Ask me about
+- 👯 I'm want to get experience and 'm looking to collaborate with any project related with data science.
+- 💬 Ask me about...
 
 
 ----
