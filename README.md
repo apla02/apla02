@@ -5,8 +5,7 @@ I'm a Manager Engineer, specialist in Strategy and Foresight, the last year I ha
 - 🌱 Foundations in software full stack including, low-level, high-level, devops and frontend.
 - 🌱 I’m currently learning and and improving my data science skills, working with Numpy, Pandas, Matpotlib and ScikitLearn.
 - 👯 I’m want to learn Keras, Pytorch, MongoDB
-- 👯 I'm want to get experience and 'm looking to collaborate with any project related with data science.
-- 💬 Ask me about...
+- 👯 I'm want to get experience and 'm looking to collaborate with any project related with data science and business inteligence.
 
 
 ![Profile views](https://gpvc.arturio.dev/apla02)  <img src="https://img.shields.io/github/followers/apla02?label=Follow" style=" float:left, margin-right:10px" />
