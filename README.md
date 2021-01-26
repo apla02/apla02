@@ -13,7 +13,7 @@ I'm a Manager Engineer, specialist in Strategy and Foresight, the last year I ha
 - 👯 I'm want to get experience and 'm looking to collaborate with any project related with data sciencie, business inteligence or machine learning.
 
 
-![Profile views](https://gpvc.arturio.dev/apla02)  <img src="https://img.shields.io/github/followers/apla02?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/apla02) 
 
 
 ----
