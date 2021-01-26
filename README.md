@@ -19,7 +19,7 @@ I'm a Manager Engineer, specialist in Strategy and Foresight, the last year I ha
 ----
 ### Top Langs
 
-![Top Langs](<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=apla02&langs_count=7&theme=algolia&show_icons=true&layout=compact#center)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apla02&langs_count=7&theme=algolia&show_icons=true&layout=compact)](https://github.com/apla02/)
 
 ----
 <p align=center>
