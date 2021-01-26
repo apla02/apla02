@@ -27,6 +27,8 @@ I'm a Manager Engineer, specialist in Strategy and Foresight, the last year I ha
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=apla02&theme=algolia&show_icons=true)
 
+</div>
+
 
 ### Find me in the web 🌍
 [![Github Badge](https://img.shields.io/badge/-@apla02-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/apla02)](https://github.com/apla02) 
