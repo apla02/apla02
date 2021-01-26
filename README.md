@@ -1,5 +1,10 @@
 ### Hi there 
 ## I'm Laura 👋
+
+<p align="center"> 
+<img alt="girl power" title="Code-love gif" src="https://media.giphy.com/media/vaL849tRgEK5O/giphy.gif"/>
+</p>
+
 I'm a Manager Engineer, specialist in Strategy and Foresight, the last year I have learnt different programming languages, data structures, and algorithms to enhance my professional profile and to make more accurate decisions through data science and machine learning.
 
 - 🌱 Foundations in software full stack including, low-level, high-level, devops and frontend.
