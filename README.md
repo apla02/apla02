@@ -2,7 +2,7 @@
 ## I'm Laura 👋
 
 <p align="center"> 
-<img alt="girl power" title="Code-love gif" src="https://media.giphy.com/media/vaL849tRgEK5O/giphy.gif"/>
+<img alt="girl power" title="girl gif" src="https://media.giphy.com/media/vaL849tRgEK5O/giphy.gif" width="60" height="60"/>
 </p>
 
 I'm a Manager Engineer, specialist in Strategy and Foresight, the last year I have learnt different programming languages, data structures, and algorithms to enhance my professional profile and to make more accurate decisions through data science and machine learning.
