@@ -1,5 +1,5 @@
 ## Hi there!!!
-## :womens: I'm Laura 👋
+## I'm Laura 👋
 
 <p align="center"> 
 <img alt="girl power" title="girl gif" src="https://media.giphy.com/media/vaL849tRgEK5O/giphy.gif" width="300" height="300"/>
