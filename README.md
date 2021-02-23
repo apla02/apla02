@@ -11,7 +11,7 @@ I'm a Manager Engineer, specialist in Strategy and Foresight, the last year I ha
 - 🌱 I’m currently learning and and improving my data science skills, working with Numpy, Pandas, Matpotlib and ScikitLearn.
 - 👯 I’m want to learn Keras, Pytorch, MongoDB
 - 👯 I'm want to get experience and 'm looking to collaborate with any project related with data sciencie, business inteligence or machine learning.
-- :earth_asia: I love to travel, cooking and to explore new cultures.
+- :earth_asia: I love to travel, cooking, doing exercise and to explore new cultures.
 
 
 ![Profile views](https://gpvc.arturio.dev/apla02)
