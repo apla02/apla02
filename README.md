@@ -2,7 +2,7 @@
 ## I'm Laura 👋
 
 <p align="center"> 
-<iframe src="https://giphy.com/embed/fXKGGOTaSokk2V8ffm" width="480" height="146" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fXKGGOTaSokk2V8ffm">via GIPHY</a></p>
+< img src="https://gph.is/g/ZxAXWv5" width="400">
 </p>
 
 I'm a Manager Engineer, specialist in Strategy and Foresight, the last year I have learnt different programming languages, data structures, and algorithms to enhance my professional profile and to make more accurate decisions through data science and machine learning.
