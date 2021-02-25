@@ -2,7 +2,7 @@
 ## I'm Laura 👋
 
 <p align="center"> 
-< img src="https://www.canva.com/design/DAEXJrRMCAw/C_Z8LUpfmkrDgvPb132KyA/watch?utm_content=DAEXJrRMCAw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+< img src="https://gph.is/g/Z7jKpBq">
 </p>
 
 I'm a Manager Engineer, specialist in Strategy and Foresight, the last year I have learnt different programming languages, data structures, and algorithms to enhance my professional profile and to make more accurate decisions through data science and machine learning.
