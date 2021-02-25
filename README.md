@@ -2,7 +2,7 @@
 ## I'm Laura 👋
 
 <p align="center"> 
-<img alt="motivation" title="motivation" src="https://imgur.com/a/lGhoZlm" />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/lGhoZlm" data-context="false" ><a href="//imgur.com/a/lGhoZlm">motivation</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
 
 I'm a Manager Engineer, specialist in Strategy and Foresight, the last year I have learnt different programming languages, data structures, and algorithms to enhance my professional profile and to make more accurate decisions through data science and machine learning.
