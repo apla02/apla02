@@ -5,7 +5,7 @@
 <img src="./motivation.gif">
 </p>
 
-I'm a Manager Engineer, Strategy and Foresight specialist, the last year I learned different programming languages, and different tools such as data structures and algorithms. These tools help me to enhance my professional profile and to make more accurate decisions through data science and machine learning.
+I'm a Manager Engineer, Strategy and Foresight specialist, the last year I learned different programming languages and different tools such as data structures and algorithms. These tools help me to enhance my professional profile and to make more accurate decisions through data science and machine learning.
 
 - 🌱 Foundations in software full stack including, low-level, high-level, devops and frontend.
 - 🌱 I’m working on my data science skills using Numpy, Pandas, Matpotlib and ScikitLearn.
