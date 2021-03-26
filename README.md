@@ -5,14 +5,10 @@
 <img src="./motivation.gif">
 </p>
 
-I'm a Manager Engineer, Strategy and Foresight specialist, the last year I have learnt different programming languages, data structures, and algorithms to enhance my professional profile and to make more accurate decisions through data science and machine learning.
+I'm a Manager Engineer, Strategy and Foresight specialist, the last year I learned different programming languages, and different tools such as data structures and algorithms. These tools help me to enhance my professional profile and to make more accurate decisions through data science and machine learning.
 
 - 🌱 Foundations in software full stack including, low-level, high-level, devops and frontend.
-- 🌱 I’m currently learning and and improving my data science skills, working with Numpy, Pandas, Matpotlib and ScikitLearn.
-- 👯 I’m want to learn Keras, Pytorch, MongoDB
-- 👯 I'm want to get experience and 'm looking to collaborate with any project related with data sciencie, business inteligence or machine learning.
-- :earth_asia: I love to travel, cooking, doing exercise and to explore new cultures.
-
+- 🌱 I’m working on my data science skills using Numpy, Pandas, Matpotlib and ScikitLearn.
 
 ![Profile views](https://gpvc.arturio.dev/apla02)
 
