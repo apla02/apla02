@@ -5,10 +5,19 @@
 <img src="./motivation.gif">
 </p>
 
-I'm a Manager Engineer, Strategy and Foresight specialist, the last year I learned different programming languages and different tools such as data structures and algorithms. These tools help me enhance my professional profile and enrich more accurate decisions through data science and machine learning.
-
-- 🌱 Foundations in software full stack including, low-level, high-level, devops and frontend.
+I'm a Manager Engineer, Strategy and Foresight specialist, and self learning Software and Data Engineer boasting over a decade of experience in offering valuable advice to clients.
+I'm excel in identifying client needs and adopting proactive problem-solving techniques, making well-informed decisions aligned with the strategic and forward-thinking objectives of the
+organization.
+In addition to my expertise in software development, I having worked extensively in areas such as back development mainly with Python and data science libraries.
+Beyond my technical process, I have soft skills with a strong inclination for continuous learning, thriving in collaborative environments, demonstrating responsibility, and exhibiting
+a high level of autonomy. 
+Technical Skills:
+- 🌱 Intermediate SQL, store procedures, windows functions and CTES.
+- 🌱 Data architecture, modelling and ETL process.
+- 🌱 General Python and its libraries: Pandas, Matplotlib y ScikitLearn.
 - 🌱 I’m working on my data science skills using Numpy, Pandas, Matpotlib and ScikitLearn.
+- 🌱 Foundations in software full stack including, low-level, high-level, devops and frontend.
+
 
 ![Profile views](https://gpvc.arturio.dev/apla02)
 
