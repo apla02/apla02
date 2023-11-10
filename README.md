@@ -11,11 +11,13 @@ organization.
 In addition to my expertise in software development, I having worked extensively in areas such as back development mainly with Python and data science libraries.
 Beyond my technical process, I have soft skills with a strong inclination for continuous learning, thriving in collaborative environments, demonstrating responsibility, and exhibiting
 a high level of autonomy. 
+
 Technical Skills:
 - 🌱 Intermediate SQL, store procedures, windows functions and CTES.
 - 🌱 Data architecture, modelling and ETL process.
 - 🌱 General Python and its libraries: Pandas, Matplotlib y ScikitLearn.
-- 🌱 I’m working on my data science skills using Numpy, Pandas, Matpotlib and ScikitLearn.
+- 🌱 AWS Cloud Practicioner Certification.
+- 🌱 I’m working on my Data Engineer Skills learning  Snowflake.
 - 🌱 Foundations in software full stack including, low-level, high-level, devops and frontend.
 
 
