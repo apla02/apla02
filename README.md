@@ -14,10 +14,11 @@ a high level of autonomy.
 
 Technical Skills:
 - 🌱 Intermediate SQL, store procedures, windows functions and CTES.
-- 🌱 Data architecture, modelling and ETL process.
+- 🌱 Data architecture, modelling and ETL tools.
 - 🌱 General Python and its libraries: Pandas, Matplotlib y ScikitLearn.
 - 🌱 AWS Cloud Practicioner Certification.
-- 🌱 I’m working on my Data Engineer Skills learning  Snowflake.
+- 🌱 Agile knowledge with Scrum and Kanbas metodologies
+- 🌱 I’m working on my Data Engineer Skills learning Snowflake.
 - 🌱 Foundations in software full stack including, low-level, high-level, devops and frontend.
 
 
