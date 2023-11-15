@@ -5,10 +5,10 @@
 <img src="./motivation.gif">
 </p>
 
-I'm a Manager Engineer, Strategy and Foresight specialist, and self learning Software and Data Engineer boasting over a decade of experience in offering valuable advice to clients.
-I'm excel in identifying client needs and adopting proactive problem-solving techniques, making well-informed decisions aligned with the strategic and forward-thinking objectives of the
+I'm a Manager Engineer, Strategy and Foresight specialist, and self-learning Software and Data Engineer boasting over a decade of experience in offering valuable advice to clients.
+I excel in identifying client needs and adopting proactive problem-solving techniques, making well-informed decisions aligned with the strategic and forward-thinking objectives of the
 organization.
-In addition to my expertise in software development, I having worked extensively in areas such as back development mainly with Python and data science libraries.
+In addition to my expertise in software development, I have worked extensively in areas such as back development mainly with Python and data science libraries.
 Beyond my technical process, I have soft skills with a strong inclination for continuous learning, thriving in collaborative environments, demonstrating responsibility, and exhibiting
 a high level of autonomy. 
 
